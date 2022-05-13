@@ -10,7 +10,7 @@ This is actually a combination of a back-end express template with a React app s
 - MongoDB
 - Mongoose
 - Bash/ZSH
-- AWS -- EC2 VPS service
+- Heroku
 
 ## Further details:
 
