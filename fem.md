@@ -1,4 +1,4 @@
-# Front End Mentor Projects
+# Frontend Mentor Projects
 
 This is a collection of front-end projects based off of professional design projects provided by the [Frontend Mentor](https://www.frontendmentor.io/) site. The projects are implemented with a variety of different front-end tool chains.
 
